@@ -25,11 +25,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
-name: DarkoSIX
+name: Nimesh Tharaka Bandaranayake.
 located_in: Kandy, Sri Lanka
 current_job: Data Science Student @ SLIIT
 education: 
-  - "Third Year Data Science Student"
+  - "Fourth Year Data Science Student"
   - "Specializing in AI & Machine Learning"
 
 fields_of_interests:
