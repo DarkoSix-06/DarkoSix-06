@@ -89,25 +89,17 @@ const mlModels = {
 <td width="50%" align="center">
 
 ### 🛒 **E-Commerce Platform**
-<img src="https://via.placeholder.com/400x200/0f172a/00d9ff?text=MERN+E-Commerce" alt="E-Commerce Platform" width="100%"/>
 
 **Tech Stack:** `MERN Stack` • `MongoDB` • `Express.js` • `React` • `Node.js`  
 > Full-stack e-commerce solution following complete SDLC methodology
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=netlify&logoColor=white)](https://your-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkoSix-06)
 
 </td>
 <td width="50%" align="center">
 
 ### 📊 **Business Intelligence Dashboard**
-<img src="https://via.placeholder.com/400x200/0f172a/00d9ff?text=Power+BI+Dashboard" alt="BI Dashboard" width="100%"/>
 
 **Tech Stack:** `Power BI` • `SSIS` • `SSAS` • `SQL Server`  
 > End-to-end BI solution with ETL pipelines and OLAP cubes
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)](https://your-powerbi-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkoSix-06)
 
 </td>
 </tr>
@@ -115,25 +107,17 @@ const mlModels = {
 <td width="50%" align="center">
 
 ### 🏥 **AR Medical Recognition System**
-<img src="https://via.placeholder.com/400x200/0f172a/00d9ff?text=AR+Medical+System" alt="AR Medical System" width="100%"/>
 
 **Tech Stack:** `Three.js` • `MindAR` • `Flask` • `MongoDB`  
 > Real-time hospital face recognition with 3D overlays and voice feedback
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=webgl&logoColor=white)](https://your-ar-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkoSix-06)
 
 </td>
 <td width="50%" align="center">
 
 ### 🚗 **AI Car Price Predictor**
-<img src="https://via.placeholder.com/400x200/0f172a/00d9ff?text=ML+Car+Predictor" alt="Car Price Predictor" width="100%"/>
 
 **Tech Stack:** `React.js` • `Flask` • `Random Forest` • `Tailwind CSS`  
 > ML-powered web app for real-time car price predictions
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=react&logoColor=white)](https://your-ml-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkoSix-06)
 
 </td>
 </tr>
@@ -141,25 +125,17 @@ const mlModels = {
 <td width="50%" align="center">
 
 ### 📷 **Real-Time Object Detection**
-<img src="https://via.placeholder.com/400x200/0f172a/00d9ff?text=YOLOv8+Detection" alt="Object Detection" width="100%"/>
 
 **Tech Stack:** `YOLOv8` • `FastAPI` • `React` • `OpenCV`  
 > Live webcam streaming with bounding boxes and accuracy scores
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=opencv&logoColor=white)](https://your-yolo-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkoSix-06)
 
 </td>
 <td width="50%" align="center">
 
 ### 📈 **Data Mining & Prediction**
-<img src="https://via.placeholder.com/400x200/0f172a/00d9ff?text=Data+Mining+Web" alt="Data Mining" width="100%"/>
 
 **Tech Stack:** `Python` • `Scikit-learn` • `Flask` • `Pandas`  
 > Preprocessed datasets with regression models for web-based predictions
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=python&logoColor=white)](https://your-data-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkoSix-06)
 
 </td>
 </tr>
@@ -194,14 +170,6 @@ const mlModels = {
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> **Community Involvement**
 
-<div align="center">
-
-| 🌿 Environmental Club | 📸 Photography Club | 💻 IT Club |
-|:---------------------:|:-------------------:|:-----------:|
-| **Member & Leader** | **Event Organizer** | **Active Member** |
-| Campus sustainability | Exhibitions & competitions | Tech events & challenges |
-
-</div>
 
 <br>
 
