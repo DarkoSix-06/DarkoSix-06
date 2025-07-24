@@ -67,33 +67,7 @@ Regression • Classification • Recommendation Systems • CNNs • RNNs • R
 - 🧮 *Python for Beginners – Moratuwa*  
 - 🔍 *NLP – Great Learning*  
 - 🧪 *SQL (Basic) – HackerRank*  
-
 ---
-
-### 🎓 Extracurricular Activities
-
-🌿 **Environmental Club Member** – Led & supported campus sustainability drives  
-📸 **Photography Club Organizer** – Hosted exhibitions and competitions  
-💻 **IT Club Active Member** – Participated in tech events and coding challenges  
-
----
-
-### 🤝 References
-
-**Mrs. Chathurika K**  
-Manager Academic Affairs / Lecturer, EWIS Career Training (Pvt) Ltd  
-📍 SLIIT Kurunegala Campus  
-📧 chathurika.k@sliit.lk | 📞 071 862 6264
-
-**Mrs. K.R.C Koswatte**  
-Lecturer, SLIIT Kandy Centre  
-📧 lakshima.m@sliit.lk | 📞 077 587 6408
-
-**Mr. K.M.L.K Mahanayake**  
-(Lecturer contact info not provided, but listed)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -105,15 +79,6 @@ Lecturer, SLIIT Kandy Centre
 </p>
 
 ---
-
-### 😂 Dev Joke of the Day
-
-```bash
-Q. Why do programmers always mix up Christmas and Halloween?  
-A. Because Oct 31 == Dec 25
-
-
----
 📫 Let’s Connect
 
 📧 Email: bandaranayakanimesh@gmail.com
@@ -121,11 +86,5 @@ A. Because Oct 31 == Dec 25
 
 ☕ Support My Work
 <a href="https://www.buymeacoffee.com/darkosix" target="_blank"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=darkosix&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /> </a> ```
-
-### 😂 Dev Joke of the Day
-
-```bash
-Q. Why do programmers always mix up Christmas and Halloween?  
-A. Because Oct 31 == Dec 25
 
 
