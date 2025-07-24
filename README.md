@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DarkoSIX&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20|%20Data%20Science%20Student%20|%20Sri%20Lanka%20🇱🇰&descAlignY=51&descAlign=50" />
+  <!-- Modern Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=modern&color=gradient&customColorList=6,11,20&height=300&section=header&text=DarkoSIX&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI/ML%20Engineer%20|%20Data%20Science%20Student%20|%20Sri%20Lanka%20🇱🇰&descAlignY=51&descAlign=50" />
   
   <!-- Typing Animation -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Aspiring+AI%2FML+Engineer;📊+Data+Science+Undergraduate;💡+Passionate+Developer;🌟+Innovation+Enthusiast;🇱🇰+Proudly+from+Sri+Lanka)
