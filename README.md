@@ -179,7 +179,10 @@ const mlModels = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkoSix-06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkoSix-06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkoSix-06&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 <br>
 
