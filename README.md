@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+DarkoSIX;AI%2FML+Engineer;Data+Science+Student;Passionate+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+DarkoSIX;AI%2FML+Engineer;Data+Science+Student;Passionate+Developer;Data+Science+Student+%7C+Undergraduate+at+SLIIT+%7C+Exploring+AI%2C+Machine+Learning%2C+and+Big+Data" alt="Typing SVG" />
+
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="✨" width="25" height="25" />
