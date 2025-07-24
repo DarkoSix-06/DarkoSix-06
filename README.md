@@ -6,13 +6,7 @@
 
 </div>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=DarkoSix-06&label=Profile%20views&color=00d4ff&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/DarkoSix-06?style=for-the-badge&color=00d4ff)
-![GitHub stars](https://img.shields.io/github/stars/DarkoSix-06?style=for-the-badge&color=ff006e)
 
-</div>
 
 ---
 
