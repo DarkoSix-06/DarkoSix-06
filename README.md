@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="✨" width="25" height="25" />
-  Aspiring Artificial intelligence/Machine learning| Data Science Undergraduate | Passionate Developer from Sri Lanka
+  Aspiring Artificial intelligence / Machine learning | Data Science Undergraduate | Passionate Developer
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="✨" width="25" height="25" />
 </h3>
 
