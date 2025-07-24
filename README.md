@@ -9,7 +9,7 @@
 
 ### 📌 About Me
 
-🎓 I'm a third-year student at **SLIIT**, specializing in **Data Science**  
+🎓 I'm a fourth-year student at **SLIIT**, specializing in **Data Science**  
 💡 Passionate about **AI, Machine Learning, and Data Analysis**  
 🚀 Currently learning: **Generative AI, NLP, Python, Power BI, Cloud**  
 📍 Based in Kandy, Sri Lanka  
@@ -74,9 +74,18 @@ Regression • Classification • Recommender Systems • CNNs • RNNs
 - 💻 IT Club – Tech Exhibitions & Hackathons  
 
 ---
+📫 Let’s Connect
+
+📧 Email: bandaranayakanimesh@gmail.com
+📍 GitHub: DarkoSix-06
+
+☕ Support My Work
+<a href="https://www.buymeacoffee.com/darkosix" target="_blank"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=darkosix&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /> </a> ```
 
 ### 😂 Dev Joke of the Day
 
 ```bash
 Q. Why do programmers always mix up Christmas and Halloween?  
 A. Because Oct 31 == Dec 25
+
+
