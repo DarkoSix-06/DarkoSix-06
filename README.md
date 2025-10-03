@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Holographic Header with Gradient Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=DarkoSIX&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Innovator&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=DarkoSIX&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%2&descSize=20&descAlignY=55" width="100%"/>
 
 <!-- Dynamic Typing Effect with Neon Glow -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Building+Intelligent+Systems+with+AI+%26+Machine+Learning;Transforming+Data+into+Actionable+Insights;Creating+Next-Gen+Web+%26+AR+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Building+Intelligent+Systems+with+AI+%26+Machine+Learning;" alt="Typing SVG" />
 
 <!-- Premium Badges Row -->
 <p align="center">
