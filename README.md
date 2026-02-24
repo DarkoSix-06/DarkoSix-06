@@ -15,9 +15,9 @@
 
 <!-- Enhanced Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarkoSix-06&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DarkoSix-06?label=Followers&style=for-the-badge&color=00ffc8&labelColor=0d1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/DarkoSix-06?label=Total%20Stars&style=for-the-badge&color=ff00ff&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Nimesh Tharaka&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nimesh Tharaka?label=Followers&style=for-the-badge&color=00ffc8&labelColor=0d1117&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Nimesh Tharaka?label=Total%20Stars&style=for-the-badge&color=ff00ff&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
