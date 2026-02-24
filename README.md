@@ -258,21 +258,6 @@ Complete ML pipeline with data preprocessing, feature engineering, and multi-mod
 </table>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Tharaka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=42a5f5&text_color=c9d1d9&ring_color=1565C0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nimesh-Tharaka&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1565C0&fire=42a5f5&currStreakLabel=64b5f6" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-Tharaka&bg_color=0d1117&color=64b5f6&line=1565C0&point=42a5f5&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Tharaka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nimesh-Tharaka&theme=github_dark&utcOffset=5.5" />
-
-</div>
 
 ---
 
