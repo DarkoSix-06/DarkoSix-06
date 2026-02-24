@@ -1,454 +1,334 @@
 <div align="center">
 
-<!-- Holographic Header with Gradient Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Nimesh Tharaka&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%2&descSize=20&descAlignY=55" width="100%"/>
+<!-- Premium Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a1628&height=220&section=header&text=Nimesh%20Tharaka&fontSize=72&fontColor=e8f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=64b5f6" width="100%"/>
 
-<!-- Dynamic Typing Effect with Neon Glow -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Building+Intelligent+Systems+with+AI+%26+Machine+Learning;" alt="Typing SVG" />
+<!-- Refined Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=64B5F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Transforming+Data+into+Intelligence+%F0%9F%A7%A0;Building+Production-Ready+AI+Systems+%F0%9F%9A%80;Final+Year+Data+Science+%40+SLIIT+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing Animation" />
 
-<!-- Premium Badges Row -->
+<br/>
+
+<!-- Professional Badge Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Science-Expert-00d9ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Specialist-00ffc8?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-ff00ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Data%20Science-SLIIT%20Final%20Year-1565C0?style=for-the-badge&logo=databricks&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Specialist-0277BD?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-01579B?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-<!-- Enhanced Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nimesh Tharaka&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nimesh Tharaka?label=Followers&style=for-the-badge&color=00ffc8&labelColor=0d1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Nimesh Tharaka?label=Total%20Stars&style=for-the-badge&color=ff00ff&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&label=Profile%20Views&color=1565C0&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Kandy%2C%20Sri%20Lanka-0288D1?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-2E7D32?style=flat-square" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+---
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0,217,255,0.3);"/>
+## 👨‍💻 About Me
 
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a1d2e 100%); padding: 20px; border-radius: 10px;">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 12px; margin-left: 20px;"/>
 
 ```typescript
-const developer = {
-  name: "Nimesh Tharaka Bandaranayake",
-  alias: "DarkoSIX",
-  location: "🌏 Kandy, Sri Lanka",
-  role: "Data Science Student @ SLIIT",
-  year: "🎓 4th Year (Final Year)",
-  
+const nimesh = {
+  name     : "Nimesh Tharaka Bandaranayake",
+  location : "📍 Kandy, Sri Lanka",
+  degree   : "BSc Data Science — SLIIT (Final Year)",
+
   expertise: {
-    artificialIntelligence: ["Machine Learning", "Deep Learning", "Neural Networks"],
-    dataScience: ["Data Mining", "Predictive Analytics", "Statistical Modeling"],
-    generativeAI: ["NLP", "Computer Vision", "LLM Applications"],
-    webDevelopment: ["Full-Stack", "MERN Stack", "RESTful APIs"],
-    augmentedReality: ["Three.js", "MindAR", "WebXR"]
+    core   : ["Machine Learning", "Deep Learning", "NLP"],
+    data   : ["Predictive Analytics", "Data Mining", "BI"],
+    web    : ["Full-Stack MERN", "RESTful APIs", "AR/XR"],
+    genAI  : ["LLM Applications", "Computer Vision"],
   },
-  
-  currentFocus: ["Generative AI 🤖", "Cloud Computing ☁️", "Advanced NLP 📝"],
-  
-  techStack: {
-    languages: ["Python", "JavaScript", "SQL", "Kotlin", "PHP"],
-    frameworks: ["React", "Node.js", "Flask", "TailwindCSS", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "SQL Server"],
-    cloud: ["AWS", "GCP", "Azure"],
-    tools: ["Docker", "Git", "Power BI", "VS Code"]
+
+  stack: {
+    languages  : ["Python", "JavaScript", "SQL", "Kotlin"],
+    frameworks : ["React", "Node.js", "Flask", "Spring Boot"],
+    ai_ml      : ["TensorFlow", "PyTorch", "Scikit-learn"],
+    cloud      : ["AWS", "GCP", "Azure"],
+    tools      : ["Docker", "Git", "Power BI"],
   },
-  
-  passion: "Building AI solutions that make a real-world impact 🚀"
+
+  currentFocus : ["Generative AI 🤖", "Cloud MLOps ☁️", "Advanced NLP 📝"],
+  lookingFor   : "Internship / Entry-level AI & Data Science roles 🎯",
+  motto        : "Build AI that creates real-world impact 🌍",
 };
 ```
 
-</div>
-
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 **Languages & Core Technologies**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,php,html,css,sql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,php,html,css&theme=dark&perline=7" />
 
-### 🎨 **Frameworks & Libraries**
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind,threejs,express,jquery&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,spring,tailwind,express&theme=dark&perline=7" />
 
-### 🛠️ **Tools, Platforms & Cloud**
+**Cloud, Tools & Databases**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws,gcp,mongodb,mysql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,mongodb,postgresql&theme=dark&perline=7" />
 
-### 🤖 **AI/ML & Data Science Stack**
+**AI / ML Stack**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4" />
 
 <table align="center">
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-<br>TensorFlow
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-<br>PyTorch
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
-<br>OpenCV
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-<br>Pandas
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-<br>NumPy
-</td>
-<td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
-<br>Scikit-learn
-</td>
-<td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
-<br>Power BI
-</td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><sub>Pandas</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><sub>NumPy</sub></td>
+<td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br/><sub>Scikit-learn</sub></td>
+<td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/><sub>Power BI</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><sub>Jupyter</sub></td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
 <table>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛍️ **E-Commerce Platform**
-<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+### 🛍️ E-Commerce Platform
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react)
+![Status](https://img.shields.io/badge/Status-Production-2E7D32?style=flat-square)
 
-```javascript
-{
-  frontend: "React.js + Redux",
-  backend: "Node.js + Express",
-  database: "MongoDB",
-  features: [
-    "User Authentication & Authorization",
-    "Payment Gateway Integration",
-    "Real-time Cart Management",
-    "Admin Dashboard & Analytics"
-  ]
-}
-```
+Full-featured e-commerce solution with real-time cart management, payment gateway integration, and an admin analytics dashboard.
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Code-Private-red?style=flat-square"/>
+**Stack:** React + Redux · Node.js · Express · MongoDB  
+**Key Features:** JWT Auth · Payment Integration · Admin Dashboard
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 **Business Intelligence Dashboard**
-<img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### 📊 Business Intelligence Dashboard
+![PowerBI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat-square&logo=powerbi)
+![Status](https://img.shields.io/badge/Real--Time-Enabled-1565C0?style=flat-square)
 
-```sql
-SELECT 
-  'ETL Pipelines' AS feature,
-  'SSIS' AS tool
-UNION ALL
-SELECT 'OLAP Cubes', 'SSAS'
-UNION ALL
-SELECT 'Interactive Dashboards', 'Power BI'
-```
+End-to-end BI solution with ETL pipelines, OLAP cubes, and interactive Power BI dashboards for executive reporting.
 
-<img src="https://img.shields.io/badge/Performance-Optimized-success?style=flat-square"/> <img src="https://img.shields.io/badge/Real--time-Enabled-blue?style=flat-square"/>
+**Stack:** SSIS · SSAS · Power BI · SQL Server  
+**Key Features:** ETL Pipelines · OLAP Cubes · Live Reports
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 **AR Medical Recognition System**
-<img src="https://img.shields.io/badge/WebXR-Innovation-FF6B6B?style=for-the-badge&logo=webxr&logoColor=white"/>
+### 🏥 AR Medical Recognition System
+![WebXR](https://img.shields.io/badge/WebXR-Innovation-E53935?style=flat-square)
+![Status](https://img.shields.io/badge/Cutting--Edge-Research-7B1FA2?style=flat-square)
 
-```python
-tech_stack = {
-    "AR": ["Three.js", "MindAR", "WebXR"],
-    "AI": ["Face Recognition", "Voice Synthesis"],
-    "Backend": ["Flask", "MongoDB"],
-    "Capabilities": [
-        "Real-time 3D Overlays",
-        "Patient Identification",
-        "Voice Feedback System"
-    ]
-}
-```
+Augmented reality system for real-time patient identification with 3D overlays and voice feedback using computer vision.
 
-<img src="https://img.shields.io/badge/Innovation-Cutting_Edge-ff00ff?style=flat-square"/>
+**Stack:** Three.js · MindAR · WebXR · Flask · MongoDB  
+**Key Features:** Face Recognition · Voice Synthesis · 3D Overlays
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 **AI Car Price Predictor**
-<img src="https://img.shields.io/badge/ML_Model-Random_Forest-00C853?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+### 🚗 AI Car Price Predictor
+![ML](https://img.shields.io/badge/Random_Forest-94.2%25_Acc-2E7D32?style=flat-square&logo=scikitlearn)
+![Status](https://img.shields.io/badge/Live-Demo-1565C0?style=flat-square)
 
-```python
-model = RandomForestRegressor(
-    n_estimators=100,
-    accuracy="94.2%",
-    features=[
-        "Brand", "Model", "Year",
-        "Mileage", "Engine_Size"
-    ]
-)
-```
+Machine learning regression model predicting vehicle prices with 94.2% accuracy, deployed as a live web application.
 
-<img src="https://img.shields.io/badge/Accuracy-94.2%25-success?style=flat-square"/> <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
+**Stack:** Python · Scikit-learn · Flask · React  
+**Key Features:** 94.2% Accuracy · REST API · Interactive UI
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👁️ **Real-Time Object Detection**
-<img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+### 👁️ Real-Time Object Detection
+![YOLO](https://img.shields.io/badge/YOLOv8-30%2B_FPS-00ACC1?style=flat-square)
+![Status](https://img.shields.io/badge/Real--Time-Enabled-2E7D32?style=flat-square)
 
-```typescript
-const objectDetection = {
-  model: "YOLOv8",
-  fps: "30+ FPS",
-  accuracy: "High Precision",
-  features: [
-    "Live Webcam Streaming",
-    "Bounding Box Detection",
-    "Confidence Scores",
-    "Multi-object Tracking"
-  ]
-}
-```
+High-performance object detection system running at 30+ FPS with multi-object tracking, bounding boxes, and confidence scoring.
 
-<img src="https://img.shields.io/badge/Real--time-30+_FPS-success?style=flat-square"/>
+**Stack:** YOLOv8 · OpenCV · Python · WebRTC  
+**Key Features:** Live Webcam · Multi-Track · 30+ FPS
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 **Predictive Analytics Suite**
-<img src="https://img.shields.io/badge/Data_Science-Full_Pipeline-9C27B0?style=for-the-badge&logo=jupyter&logoColor=white"/>
+### 🤖 AI Post Description Generator
+![Gemini](https://img.shields.io/badge/Gemini_2.0-Powered-4285F4?style=flat-square&logo=google)
+![Status](https://img.shields.io/badge/Full--Stack-Complete-2E7D32?style=flat-square)
 
-```python
-pipeline = {
-    "preprocessing": [
-        "Data Cleaning",
-        "Feature Engineering",
-        "Normalization"
-    ],
-    "models": [
-        "Linear Regression",
-        "Decision Trees",
-        "Random Forest"
-    ],
-    "deployment": "Flask + React"
-}
-```
+Intelligent marketing copy generator producing 40–50 word descriptions from product type and subcategory inputs.
 
-<img src="https://img.shields.io/badge/Models-Multiple-success?style=flat-square"/> <img src="https://img.shields.io/badge/API-RESTful-blue?style=flat-square"/>
+**Stack:** Vite · React · Node.js · Gemini 2.0 API  
+**Key Features:** AI Copy · Secure API · Fast Generation
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✍️ **AI Post Description Generator**
-<img src="https://img.shields.io/badge/Gemini_2.0-AI_Powered-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+### 📈 Fruit Stocks AI Dashboard
+![Spring](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=springboot)
+![Status](https://img.shields.io/badge/AI--Insights-Enabled-4285F4?style=flat-square)
 
-```javascript
-const generator = {
-  input: ["Type", "Subcategory"],
-  output: "40-50 word marketing copy",
-  stack: {
-    frontend: "Vite + React",
-    backend: "Node.js + Gemini API",
-    security: "Server-side API key"
-  }
-}
-```
+Analytics dashboard with AI-generated summaries providing real-time stock insights and interactive visualizations.
 
-<img src="https://img.shields.io/badge/AI-Gemini_2.0-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Full--Stack-Complete-success?style=flat-square"/>
+**Stack:** Spring Boot · React + Vite · H2 · Recharts · Gemini  
+**Key Features:** AI Summaries · Stock Analytics · Real-Time Data
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 **Fruit Stocks AI Dashboard**
-<img src="https://img.shields.io/badge/Spring_Boot-Analytics-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+### 📉 Predictive Analytics Suite
+![DS](https://img.shields.io/badge/Data_Science-Full_Pipeline-6A1B9A?style=flat-square&logo=jupyter)
+![Status](https://img.shields.io/badge/API-RESTful-1565C0?style=flat-square)
 
-```java
-@Service
-class FruitAnalytics {
-  // Mock data: Apple, Orange, Banana
-  Database: H2,
-  Charts: Recharts,
-  AI: "Gemini 2.0 summaries",
-  Features: [
-    "Stock Analytics",
-    "AI Insights",
-    "Real-time Updates"
-  ]
-}
-```
+Complete ML pipeline with data preprocessing, feature engineering, and multi-model deployment via a Flask + React interface.
 
-<img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square"/> <img src="https://img.shields.io/badge/Frontend-React_+_Vite-61DAFB?style=flat-square"/>
+**Stack:** Python · Scikit-learn · Flask · React  
+**Key Features:** Feature Engineering · Multi-Model · REST API
 
 </td>
 </tr>
+
 </table>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🧠 **AI & Machine Learning**
+**🧠 AI & Machine Learning**
 
-<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/AWS-ML_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Great_Learning-NLP_Course-00C853?style=flat-square&logo=google&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Coursera-Neural_Networks-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+![Google](https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=flat-square&logo=googlecloud)  
+![AWS](https://img.shields.io/badge/AWS-ML_Foundations-FF9900?style=flat-square&logo=amazonaws)  
+![Coursera](https://img.shields.io/badge/Coursera-Neural_Networks-0056D2?style=flat-square&logo=coursera)  
+![NLP](https://img.shields.io/badge/Great_Learning-NLP_Course-2E7D32?style=flat-square)
 
 </td>
 <td align="center" width="33%">
 
-### 📊 **Data Analytics**
+**📊 Data & Analytics**
 
-<img src="https://img.shields.io/badge/Microsoft-Power_BI_(PL--300)-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<br>
-<img src="https://img.shields.io/badge/HackerRank-SQL_Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/University-Data_Mining-6C63FF?style=flat-square&logo=databricks&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Python-Advanced_Analytics-3776AB?style=flat-square&logo=python&logoColor=white"/>
+![PBI](https://img.shields.io/badge/Microsoft-Power_BI_PL--300-F2C811?style=flat-square&logo=powerbi)  
+![SQL](https://img.shields.io/badge/HackerRank-SQL_Certified-00EA64?style=flat-square&logo=hackerrank)  
+![DM](https://img.shields.io/badge/SLIIT-Data_Mining-1565C0?style=flat-square)  
+![Python](https://img.shields.io/badge/Python-Advanced_Analytics-3776AB?style=flat-square&logo=python)
 
 </td>
 <td align="center" width="33%">
 
-### 🏆 **Competitions & Awards**
+**🏅 Competitions & Awards**
 
-<img src="https://img.shields.io/badge/Hackathon-Top_3_Finalist-FFD700?style=flat-square&logo=dev.to&logoColor=black"/>
-<br>
-<img src="https://img.shields.io/badge/Research-AI%2FML_Projects-8E44AD?style=flat-square&logo=researchgate&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Open_Source-Active_Contributor-181717?style=flat-square&logo=github&logoColor=white"/>
+![Hackathon](https://img.shields.io/badge/Hackathon-Top_3_Finalist-FFD700?style=flat-square)  
+![Research](https://img.shields.io/badge/Research-AI%2FML_Projects-7B1FA2?style=flat-square)  
+![OSS](https://img.shields.io/badge/Open_Source-Active_Contributor-181717?style=flat-square&logo=github)
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarkoSix-06&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ffc8&text_color=c9d1d9&ring_color=ff00ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DarkoSix-06&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00ffc8&currStreakLabel=00d9ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Tharaka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=42a5f5&text_color=c9d1d9&ring_color=1565C0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nimesh-Tharaka&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1565C0&fire=42a5f5&currStreakLabel=64b5f6" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarkoSix-06&bg_color=0d1117&color=00d9ff&line=ff00ff&point=00ffc8&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-Tharaka&bg_color=0d1117&color=64b5f6&line=1565C0&point=42a5f5&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkoSix-06&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkoSix-06&theme=radical&utcOffset=5.5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Tharaka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=10" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nimesh-Tharaka&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:bandaranayakanimesh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bandaranayakanimesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-bandaranayakanimesh%40gmail.com-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/nimesh-bandaranayake-0a2912304/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nimesh_Bandaranayake-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Nimesh%20Bandaranayake-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Nimesh-Tharaka">
+  <img src="https://img.shields.io/badge/GitHub-Nimesh--Tharaka-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/NimeshTharaka">
+  <img src="https://img.shields.io/badge/Twitter-@NimeshTharaka-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://github.com/DarkoSix-06">
-  <img src="https://img.shields.io/badge/GitHub-DarkoSix--06-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-</a>
+<br/><br/>
 
-<a href="https://twitter.com/DarkoSix06">
-  <img src="https://img.shields.io/badge/Twitter-@DarkoSix06-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/💬-Open_to_Collaborate-00d9ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💼-Available_for_Internships-00ffc8?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📧-Quick_Response-ff00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💬-Open%20to%20Collaborate-1565C0?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/💼-Available%20for%20Internships-2E7D32?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/📧-Quick%20Response%20Guaranteed-0288D1?style=for-the-badge" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 💭 Daily Inspiration
+---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-<br><br>
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  "First, solve the problem. Then, write the code."          ║
-║                                        – John Johnson        ║
-║                                                              ║
-║  💡 Innovation distinguishes between a leader & a follower  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "First, solve the problem. Then, write the code."             ║
+║                                             — John Johnson       ║
+║                                                                  ║
+║   💡 The best AI doesn't replace humans — it empowers them.     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br/>
 
-<div align="center">
+**Thank you for visiting — let's build something meaningful together. 🚀**
 
-### 🔥 **Show Some Love!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0e1a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/⭐-Star_my_repositories-FFD700?style=for-the-badge&labelColor=0d1117" alt="Star"/>
-  <img src="https://img.shields.io/badge/🔔-Follow_for_updates-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Follow"/>
-  <img src="https://img.shields.io/badge/🤝-Let's_collaborate-00ffc8?style=for-the-badge&labelColor=0d1117" alt="Collaborate"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br>
-
-**💙 Thank you for visiting my profile! Let's build something amazing together! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=DarkoSix-06&style=for-the-badge&color=00d9ff&label=Total+Profile+Views" alt="Total Views"/>
+<img src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&style=flat-square&color=1565C0&label=Total+Profile+Views" />
 
 </div>
