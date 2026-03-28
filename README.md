@@ -10,7 +10,7 @@
 
 <!-- Professional Badge Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-SLIIT%20Final%20Year-1565C0?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-SLIIT%20%20-1565C0?style=for-the-badge&logo=databricks&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Specialist-0277BD?style=for-the-badge&logo=tensorflow&logoColor=white" />
   &nbsp;
